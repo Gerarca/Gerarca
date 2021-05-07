@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gerarca
-- 👀 I’m interested in React JS, javascript, css, html
+- 👀 I’m interested in React JS, javascript, TypeScript, html, css, sass, Bootstrap, Material-UI, Material Design, webPack, Node JS, Database
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (+58)4127817682
